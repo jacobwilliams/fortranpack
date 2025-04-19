@@ -52,6 +52,21 @@ To use this, just add this to your project's `fpm.toml` file:
 [dependencies]
 fortranpack = { git="https://github.com/jacobwilliams/fortranpack.git" }
 ```
+### Building
+
+By default, the library is built with double precision (`real64`) real values. Explicitly specifying the real kind can be done using the following preprocessor flags:
+
+Preprocessor flag | Kind  | Number of bytes
+----------------- | ----- | ---------------
+`REAL32`  | `real(kind=real32)`  | 4
+`REAL64`  | `real(kind=real64)`  | 8
+`REAL128` | `real(kind=real128)` | 16
+
+For example, to build a quad precision version of the library, use:
+
+```
+fpm build --profile release --flag "-DREAL128"
+```
 
 ### See also
 
