@@ -18,7 +18,7 @@ This is an experiment. It is basically just a [Fortran Package Manager](https://
  * [json-fortran             ](https://github.com/jacobwilliams/json-fortran)
  * [lbfgsb                   ](https://github.com/jacobwilliams/lbfgsb)
  * [mersenne-twister-fortran ](https://github.com/jacobwilliams/mersenne-twister-fortran)
- * [nlesolver-fortran        ](https://github.com/jacobwilliams/nlesolver-fortran")
+ * [nlesolver-fortran        ](https://github.com/jacobwilliams/nlesolver-fortran)
  * [NumDiff                  ](https://github.com/jacobwilliams/NumDiff)
  * [optgra                   ](https://github.com/jacobwilliams/optgra)
  * [pchip                    ](https://github.com/jacobwilliams/PCHIP)
