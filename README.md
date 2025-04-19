@@ -42,3 +42,8 @@ To use this, just add this to your project's `fpm.toml` file:
 [dependencies]
 fortranpack = { git="https://github.com/jacobwilliams/fortranpack.git" }
 ```
+
+### See also
+
+* [A Modern Fortran Scientific Programming Ecosystem](https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html), degenerateconic.com, Oct 12, 2022.
+* [Packs](https://degenerateconic.com/packs.html), degenerateconic.com, Feb 08, 2022.
