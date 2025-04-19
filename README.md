@@ -1,6 +1,13 @@
-# fortranpack
+![logo](media/fortran_logo_64x64.png)
 
-A Modern Fortran Numerical & Scientific Programming Package
+**fortranpack**: A Modern Fortran Numerical & Scientific Programming Package
+
+[![Language](https://img.shields.io/badge/-Fortran-734f96?logo=fortran&logoColor=white)](https://github.com/topics/fortran)
+[![CI Status](https://github.com/jacobwilliams/fortranpack/actions/workflows/CI.yml/badge.svg)](https://github.com/jacobwilliams/fortranpack/actions)
+[![last-commit](https://img.shields.io/github/last-commit/jacobwilliams/fortranpack)](https://github.com/jacobwilliams/fortranpack/commits/master)
+<!-- [![GitHub release](https://img.shields.io/github/release/jacobwilliams/fortranpack.svg)](https://github.com/jacobwilliams/fortranpack/releases/latest) -->
+<!-- [![codecov](https://codecov.io/gh/jacobwilliams/fortranpack/branch/master/graph/badge.svg)](https://codecov.io/gh/jacobwilliams/fortranpack) -->
+
 
 This is an experiment. It is basically just a [Fortran Package Manager](https://fpm.fortran-lang.org) `fpm.toml` manifest file that uses the following packages:
 
