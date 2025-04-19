@@ -47,3 +47,4 @@ fortranpack = { git="https://github.com/jacobwilliams/fortranpack.git" }
 
 * [A Modern Fortran Scientific Programming Ecosystem](https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html), degenerateconic.com, Oct 12, 2022.
 * [Packs](https://degenerateconic.com/packs.html), degenerateconic.com, Feb 08, 2022.
+* [Fortran Standard Library](https://github.com/fortran-lang/stdlib)
