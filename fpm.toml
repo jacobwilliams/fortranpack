@@ -25,35 +25,35 @@ source-form = "free"
 source-dir = "src"
 
 [dependencies]
-NumDiff = { git = "https://github.com/jacobwilliams/NumDiff" }
-ddeabm = { git = "https://github.com/jacobwilliams/ddeabm" }
-json-fortran = { git = "https://github.com/jacobwilliams/json-fortran" }
-bspline-fortran = { git = "https://github.com/jacobwilliams/bspline-fortran" }
-pyplot-fortran = { git = "https://github.com/jacobwilliams/pyplot-fortran" }
-fortran-search-and-sort = { git = "https://github.com/jacobwilliams/fortran-search-and-sort" }
-nlesolver-fortran = { git = "https://github.com/jacobwilliams/nlesolver-fortran"}
-argv-fortran = { git = "https://github.com/jacobwilliams/argv-fortran" }
-simulated-annealing = { git = "https://github.com/jacobwilliams/simulated-annealing" }
-regridpack = { git = "https://github.com/jacobwilliams/regridpack" }
-finterp = { git = "https://github.com/jacobwilliams/finterp" }
-pchip = { git = "https://github.com/jacobwilliams/PCHIP" }
-splpak = { git = "https://github.com/jacobwilliams/splpak" }
-csv-fortran = { git = "https://github.com/jacobwilliams/csv-fortran" }
-slsqp = { git = "https://github.com/jacobwilliams/slsqp" }
-conmin = { git = "https://github.com/jacobwilliams/conmin" }
-conmax = { git = "https://github.com/jacobwilliams/conmax" }
-psqp = { git = "https://github.com/jacobwilliams/psqp" }
-optgra = { git = "https://github.com/jacobwilliams/optgra" }
-pikaia = { git = "https://github.com/jacobwilliams/pikaia" }
-lbfgsb = { git = "https://github.com/jacobwilliams/lbfgsb" }
-roots-fortran = { git = "https://github.com/jacobwilliams/roots-fortran" }
-polyroots-fortran = { git = "https://github.com/jacobwilliams/polyroots-fortran" }
-dop853 = { git = "https://github.com/jacobwilliams/dop853" }
-rklib = { git = "https://github.com/jacobwilliams/rklib" }
-quadpack = { git = "https://github.com/jacobwilliams/quadpack" }
-quadrature-fortran = { git = "https://github.com/jacobwilliams/quadrature-fortran" }
+argv-fortran             = { git = "https://github.com/jacobwilliams/argv-fortran" }
+bspline-fortran          = { git = "https://github.com/jacobwilliams/bspline-fortran" }
+conmax                   = { git = "https://github.com/jacobwilliams/conmax" }
+conmin                   = { git = "https://github.com/jacobwilliams/conmin" }
+csv-fortran              = { git = "https://github.com/jacobwilliams/csv-fortran" }
+daglib                   = { git = "https://github.com/jacobwilliams/daglib" }
+ddeabm                   = { git = "https://github.com/jacobwilliams/ddeabm" }
+dop853                   = { git = "https://github.com/jacobwilliams/dop853" }
+finterp                  = { git = "https://github.com/jacobwilliams/finterp" }
+fortran-mach             = { git = "https://github.com/jacobwilliams/fortran-mach" }
+fortran-search-and-sort  = { git = "https://github.com/jacobwilliams/fortran-search-and-sort" }
+json-fortran             = { git = "https://github.com/jacobwilliams/json-fortran" }
+lbfgsb                   = { git = "https://github.com/jacobwilliams/lbfgsb" }
 mersenne-twister-fortran = { git = "https://github.com/jacobwilliams/mersenne-twister-fortran" }
-daglib = { git = "https://github.com/jacobwilliams/daglib" }
-popen-fortran = { git = "https://github.com/jacobwilliams/popen-fortran" }
-fortran-mach = { git = "https://github.com/jacobwilliams/fortran-mach" }
+nlesolver-fortran        = { git = "https://github.com/jacobwilliams/nlesolver-fortran"}
+NumDiff                  = { git = "https://github.com/jacobwilliams/NumDiff" }
+optgra                   = { git = "https://github.com/jacobwilliams/optgra" }
+pchip                    = { git = "https://github.com/jacobwilliams/PCHIP" }
+pikaia                   = { git = "https://github.com/jacobwilliams/pikaia" }
+polyroots-fortran        = { git = "https://github.com/jacobwilliams/polyroots-fortran" }
+popen-fortran            = { git = "https://github.com/jacobwilliams/popen-fortran" }
+psqp                     = { git = "https://github.com/jacobwilliams/psqp" }
+pyplot-fortran           = { git = "https://github.com/jacobwilliams/pyplot-fortran" }
+quadpack                 = { git = "https://github.com/jacobwilliams/quadpack" }
+quadrature-fortran       = { git = "https://github.com/jacobwilliams/quadrature-fortran" }
+regridpack               = { git = "https://github.com/jacobwilliams/regridpack" }
+rklib                    = { git = "https://github.com/jacobwilliams/rklib" }
+roots-fortran            = { git = "https://github.com/jacobwilliams/roots-fortran" }
+simulated-annealing      = { git = "https://github.com/jacobwilliams/simulated-annealing" }
+slsqp                    = { git = "https://github.com/jacobwilliams/slsqp" }
+splpak                   = { git = "https://github.com/jacobwilliams/splpak" }
 
