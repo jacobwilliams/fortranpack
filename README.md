@@ -35,6 +35,8 @@ This is an experiment. It is basically just a [Fortran Package Manager](https://
  * [simulated-annealing      ](https://github.com/jacobwilliams/simulated-annealing)
  * [slsqp                    ](https://github.com/jacobwilliams/slsqp)
  * [splpak                   ](https://github.com/jacobwilliams/splpak)
+ * [stringsort               ](https://github.com/jacobwilliams/stringsort)
+ * [uuid-fortran             ](https://github.com/jacobwilliams/uuid-fortran)
 
 To use this, just add this to your project's `fpm.toml` file:
 

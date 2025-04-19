@@ -31,6 +31,8 @@ module fortranpack
   use slsqp_module
   use sorting_module
   use splpak_module
+  use string_sort_module
+  use uuid_module
 
   implicit none
 
