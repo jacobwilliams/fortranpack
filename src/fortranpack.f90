@@ -2,6 +2,7 @@ module fortranpack
 
   use argv_module
   use bspline_module
+  use carlson_elliptic_module
   use conmax_module
   use conmin_module
   use csv_module

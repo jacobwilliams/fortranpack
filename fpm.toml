@@ -27,6 +27,7 @@ source-dir = "src"
 [dependencies]
 argv-fortran             = { git = "https://github.com/jacobwilliams/argv-fortran" }
 bspline-fortran          = { git = "https://github.com/jacobwilliams/bspline-fortran" }
+carlson-elliptic-integrals = { git = "https://github.com/jacobwilliams/carlson-elliptic-integrals" }
 conmax                   = { git = "https://github.com/jacobwilliams/conmax" }
 conmin                   = { git = "https://github.com/jacobwilliams/conmin" }
 csv-fortran              = { git = "https://github.com/jacobwilliams/csv-fortran" }

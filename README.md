@@ -13,6 +13,7 @@ This is an experiment. It is basically just a [Fortran Package Manager](https://
 
  * [argv-fortran             ](https://github.com/jacobwilliams/argv-fortran) -- A better `get_command_argument` for Fortran
  * [bspline-fortran          ](https://github.com/jacobwilliams/bspline-fortran) -- Multidimensional B-Spline Interpolation of Data on a Regular Grid
+ * [carlson-elliptic-integrals](https://github.com/jacobwilliams/carlson-elliptic-integrals) -- Carlson symmetric forms of elliptic integrals
  * [conmax                   ](https://github.com/jacobwilliams/conmax) -- Modern Fortran CONMAX Optimization Method for general nonlinearly constrained function minimization
  * [conmin                   ](https://github.com/jacobwilliams/conmin) -- Modern Fortran CONMIN Optimization Method
  * [csv-fortran              ](https://github.com/jacobwilliams/csv-fortran) -- Read and Write CSV Files Using Modern Fortran
