@@ -1,4 +1,4 @@
-![logo](media/fortran_logo_64x64.png)
+![logo](media/fortranpack.png)
 
 **fortranpack**: A Modern Fortran Numerical & Scientific Programming Package
 
