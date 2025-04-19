@@ -2,7 +2,7 @@
 
 A Modern Fortran Numerical & Scientific Programming Package
 
-This is an experiment. It is basically just an `fpm.toml` file that uses the following packages:
+This is an experiment. It is basically just a [Fortran Package Manager](https://fpm.fortran-lang.org) `fpm.toml` manifest file that uses the following packages:
 
  * [argv-fortran             ](https://github.com/jacobwilliams/argv-fortran)
  * [bspline-fortran          ](https://github.com/jacobwilliams/bspline-fortran)
